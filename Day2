@@ -1,0 +1,15 @@
+<h1>
+  简历
+</h1>
+<div class="name">姓名：郑建国</div>
+<div class="contacts" style="margin-top:40px">联系方式：
+  <div class="contacts" id="tel">手机：1234567890</div>
+  <div class="contacts" id="email">邮箱：zxcvbnm@gmail.com</div>
+  <div class="contacts" id="edu">学历：百度前端技术学院 本科</div>
+
+</div>
+<div style="margin-top:40px" class="exp"><strong>项目经验：</strong>
+  <div>
+    配合县市农业局、环保厅，根据国家发布的农用地土壤环境质量类别划分技术指南，推进土壤环境质量类别划分。按污染程度将农用地划为三个类别，未污染和轻微污染的划为优先保护类，轻度和中度污染的划为安全利用类，重度污染的划为严格管控类。以土壤污染状况详查结果为依据，开展土壤和农产品协同监测与评价，逐步建立分类清单，有效保障全市农产品质量安全。我通过与上级领导对接，按照技术指南，负责了青青草原的处理数据、制作图件、划分类别、制作分类清单、提出建议等有关工作。
+  </div>
+</div>
